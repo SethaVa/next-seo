@@ -8,7 +8,7 @@
         - About page: About - My App
         - Privacy Policy page: Privacy Policy - My App
 
-\*\* Should use local font instead of load Google font form Google Server directly. However this is a bad for user privacy because when load Google font from Google, the website's visiter is sent to Google Server.
+\*\* Should use local font instead of load Google font form Google Server directly. However this is a bad for user privacy because when load Google font from Google, the website's visiter is sent to Google Server.[]
 
 \*\*Open Graph Image(OG): the image shown when you paste the link of your website to the social media.
 
